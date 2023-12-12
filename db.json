@@ -1,18 +1,19 @@
 {
   "account-transfers": 
     {
-      "id":"U1",
-      "customerName": "三菱　太郎",
-      "customerNameKana": "ミツビシタロウ　バツバツシヨウテン",
-      "birthDate": "1980-05-05",
-      "gender": "2",
-      "phoneNumber1": "080-5678-0123",
-      "phoneNumber2": "090-5678-0123",
-      "phoneNumber3": "070-5678-0123",
-      "address": {
-        "postalCode": "114-0003",
-        "domesticAddress": "東京都千代田区丸の内１－２－３　三菱マンション１２３４"
-      }
+      "clientNo": "1234567890",
+      "billerCustomerNo": "0034200",
+      "billerOperatingDate": "2023-08-30",
+      "billerOperatingTime": "20:00:00",
+      "billerOperatingNo": "003420008302000",
+      "FIOperatingDate": "2023-08-31",
+      "FIOperatingTime": "10:34:47",
+      "bankCode": "0005",
+      "branchNo": "00001",
+      "depositType": "1",
+      "accountNo": "01110001",
+      "accountNameKana": "サトウ　イチロウ",
+      "isIdentityVerifiedDetail": "1"
     }
    ,
    "users-name-alpha": 
